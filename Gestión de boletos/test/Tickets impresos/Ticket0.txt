@@ -1,0 +1,8 @@
+Teatro Chachita 
+Venta número: 0
+Función teatral: Norteños
+Fecha y hora de venta: 2022-04-19 5:35
+Boletos vendidos: 3
+Total: 97.5
+Monto entregado: 100.0
+Cambio: 2.5

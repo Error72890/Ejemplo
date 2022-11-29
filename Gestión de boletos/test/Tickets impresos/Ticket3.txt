@@ -1,0 +1,8 @@
+Teatro Chachita 
+Venta número: 3
+Función teatral: Historia de amor
+Fecha y hora de venta: 2022-04-19 5:38
+Boletos vendidos: 5
+Total: 200.5
+Monto entregado: 201.0
+Cambio: 0.5

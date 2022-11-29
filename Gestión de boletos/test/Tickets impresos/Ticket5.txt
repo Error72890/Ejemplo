@@ -1,0 +1,8 @@
+Teatro Chachita 
+Venta número: 5
+Función teatral: Pelicula generica
+Fecha y hora de venta: 2022-05-19 5:45
+Boletos vendidos: 3
+Total: 36.6
+Monto entregado: 40.0
+Cambio: 3.4000015

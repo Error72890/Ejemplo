@@ -1,0 +1,4 @@
+Norteños;Comedia;aqui va el resumen que puede tener o no comas;120;Jose Luis;Carlos Trejo;32.5
+Criando mulas;Drama;aqui va el resumen que puede tener o no comas;120;Manuel Andrés;Juan Osvaldo;25.0
+Pelicula generica;Acción;Este es el resumen de la peli si que si;150;Cañitas;Raul Araiza;12.2
+Historia de amor;Romcom;aqui va el resumen que puede tener o no comas;120;Angel Heredia;Jhonny Sins;40.1

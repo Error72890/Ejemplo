@@ -1,0 +1,3 @@
+Función teatral: Pelicula generica
+Fecha y hora de la función: 2022-05-27 18:00
+Número del boleto (Asiento): B3

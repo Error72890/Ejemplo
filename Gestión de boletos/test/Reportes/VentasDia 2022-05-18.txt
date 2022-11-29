@@ -1,0 +1,4 @@
+Nombre de la obra - Fecha de venta - Boletos vendidos - Ingresos de la venta 
+Norteños    2022-05-18    3    $97.534566
+Criando mulas    2022-05-18    3    $75.034566
+Ingresos totales: $172.56912

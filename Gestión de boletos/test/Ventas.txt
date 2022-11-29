@@ -1,0 +1,7 @@
+6
+Norteños,2022-05-18,3,97.53456
+Criando mulas,2022-05-18,3,75.03456
+Pelicula generica,2022-05-19,9,109.7999953456
+Historia de amor,2022-05-19,5,200.5456
+Criando mulas,2022-05-19,3,75.056
+Pelicula generica,2022-05-19,3,36.66

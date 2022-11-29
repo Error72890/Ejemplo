@@ -1,0 +1,8 @@
+Teatro Chachita 
+Venta número: 1
+Función teatral: Criando mulas
+Fecha y hora de venta: 2022-04-19 5:35
+Boletos vendidos: 3
+Total: 75.0
+Monto entregado: 75.0
+Cambio: 0.0

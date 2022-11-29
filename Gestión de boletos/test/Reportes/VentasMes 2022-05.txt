@@ -1,0 +1,8 @@
+Nombre de la obra - Fecha de venta - Boletos vendidos - Ingresos de la venta 
+Norteños - 2022-05-18 - 3 - $97.534566
+Criando mulas - 2022-05-18 - 3 - $75.034566
+Pelicula generica - 2022-05-19 - 9 - $109.79999534566
+Historia de amor - 2022-05-19 - 5 - $200.54566
+Criando mulas - 2022-05-19 - 3 - $75.0566
+Pelicula generica - 2022-05-19 - 3 - $36.666
+Ingresos totales: $594.6307
